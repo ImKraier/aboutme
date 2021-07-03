@@ -1,4 +1,9 @@
 ### Hi there, I'm kraier 👋
+<ul>
+  <li>I'm currenty trying to lean more about C languages.</li>
+  <li>You can reach me on discord as kraier#0372.</li>
+  <li>I'm working on my forum Warface Romania as a Web Developer.</li>
+</ul>
 
 ### Languages and Tools:
 
