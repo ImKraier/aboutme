@@ -1,5 +1,5 @@
 ### Hi there, I'm kraier 👋
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/392349430788915200)](https://discord.com/users/392349430788915200)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/252529552440426507)](https://discord.com/users/252529552440426507)
 
 ---
 
