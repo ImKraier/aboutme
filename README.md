@@ -1,9 +1,5 @@
 ### Hi there, I'm kraier 👋
-<ul>
-  <li>I'm currenty trying to lean more about C languages.</li>
-  <li>I'm working on my forum Warface Romania as a Web Developer.</li>
-  <li>You can reach me on discord as kraier#0372.</li>
-</ul>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/392349430788915200)](https://discord.com/users/392349430788915200)
 
 ---
 
