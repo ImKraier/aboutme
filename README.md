@@ -10,7 +10,7 @@
 - <a href="https://eway-design.com/">**Easy Way Solutions**</a> - web agency with a passion for designing and developing your website.
 
 ### 🎓 Learning
-- Currently, I'm trying to learn more things about website development
+- At the moment, I'm attempting to learn more about website development.
 
 ---
 
@@ -22,4 +22,4 @@
  - Datastorages: MySQL, SQLite
  - Other: Linux(Ubuntu, CentOS, Debian)
   ---
-📫 You can reach me on Discord as **kraier#0372** or just email me at **office@eway-design.com**.
+📫 You can reach me on Discord as **kraier#0372** or at **office@eway-design.com** via e-mail.
