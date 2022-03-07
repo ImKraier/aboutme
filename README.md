@@ -1,15 +1,25 @@
-### Hi there, I'm kraier 👋
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/392349430788915200)](https://discord.com/users/392349430788915200)
+### Hello world! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=ImKraier&color=4396e8&style=flat-square)
 
 ---
 
-### Languages and Tools:
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/392349430788915200)](https://discord.com/users/392349430788915200)
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+---
+### 👨‍💻 What I'm working on?
+- <a href="https://eway-design.com/">**Easy Way Solutions**</a> - web agency with a passion for designing and developing your website.
+
+### 🎓 Learning
+- Currently, I'm trying to learn more things about website development
+
+---
+
+### 💻 Tech & Tools:
+
+ - Front-End: HTML5, CSS3, JavaScript, VueJS, jQuery, Tailwind CSS, Bootstrap, React
+ - Back-end: C#, SourcePawn, TypeScript, PHP, Laravel
+ - Scripting: Python3, Bash
+ - Datastorages: MySQL, SQLite
+ - Other: Linux(Ubuntu, CentOS, Debian)
+  ---
+📫 You can reach me on Discord as **kraier#0372** or just email me at **office@eway-design.com**.
