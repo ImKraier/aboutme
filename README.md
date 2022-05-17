@@ -17,7 +17,7 @@
 ### 💻 Tech & Tools:
 
  - Front-End: HTML5, CSS3, JavaScript, VueJS, jQuery, Tailwind CSS, Bootstrap, React, NuxtJS
- - Back-end: C#, SourcePawn, TypeScript, PHP, Laravel, Express
+ - Back-end: C#, SourcePawn, TypeScript, PHP, Laravel, ExpressJS
  - Scripting: Python3, Bash
  - Datastorages: MySQL, SQLite
  - Other: Linux(Ubuntu, CentOS, Debian)
