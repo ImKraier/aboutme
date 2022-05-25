@@ -5,10 +5,6 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/392349430788915200)](https://discord.com/users/392349430788915200)
 
----
-### 👨‍💻 What I'm working on?
-- <a href="https://eway-design.com/">**Easy Way Solutions**</a> - web agency with a passion for designing and developing your website.
-
 ### 🎓 Learning
 - At the moment, I'm attempting to learn more about website development.
 
