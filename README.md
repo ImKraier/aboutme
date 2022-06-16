@@ -11,14 +11,13 @@
 ---
 
 ### 💻 Tech & Tools:
-
- - Front-End: HTML5, CSS3, JavaScript, VueJS, jQuery, Tailwind CSS, Bootstrap, React, NuxtJS
- - Back-end: C#, SourcePawn, TypeScript, PHP, Laravel, ExpressJS
+ - Front-End: HTML5, CSS3, SCSS, JavaScript, jQuery, VueJS, Tailwind CSS, Bootstrap, NuxtJS
+ - Back-end: TypeScript, PHP, Laravel, ExpressJS, Pusher
  - Scripting: Python3, Bash
- - Datastorages: MySQL, SQLite
+ - Datastorages: MySQL, SQLite, Prisma
  - Other: Linux(Ubuntu, CentOS, Debian)
   ---
-📫 You can reach me on Discord as **kraier#0372** or at **office@eway-design.com** via e-mail.
+📫 You can reach me on Discord as **kraier#0372** or at **kraiermarin11@gmail.com** via e-mail.
 
 <p align="center">
   <a href="#">
