@@ -1,5 +1,5 @@
 ## Hi, I'm Pavel
-— A Full Stack Developer based on England with lot of pasion for programming and designing. In most of my free time I like doing some random open-source projects and reach out my goals.
+— A Full Stack Developer based on England with lot of pasion for programming and designing. In most of my free time I like doing some random open-source projects.
 
 ## Current Tech Stack
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
